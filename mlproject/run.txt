@@ -1,0 +1,1 @@
+streamlit run C:\Users\rohit\Desktop\mlproject\app.py
